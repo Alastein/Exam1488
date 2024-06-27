@@ -1,7 +1,7 @@
 import tkinter as tk
 # Создаем главное окно
 root = tk.Tk()
-root.title("Рисование линий и треугольников")
+root.title("Рисование текста и треугольников")
 # Создаем холст для рисования
 canvas = tk.Canvas(root, width=400, height=400, bg='white')
 canvas.pack()
